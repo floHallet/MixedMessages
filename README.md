@@ -11,12 +11,12 @@
 
 
 ## General Information
-- I choose to output [Hal9000](https://en.wikipedia.org/wiki/HAL_9000) thoughts about when the end of the world is going to happen.
-- The purpose of this project is to :
+- I chose to output [GLaDOS](https://en.wikipedia.org/wiki/GLaDOS) thoughts about when the world is going to end.
+- The purpose of this project was to :
     - Build a message generator program using JavaScript
     - Use Git version control
     - Use command line
-    - Develop locally on your computer
+    - Develop locally on the computer
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
